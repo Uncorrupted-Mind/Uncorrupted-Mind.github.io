@@ -12,10 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Header 1
 
-Obsessed cloud enthusiast with a strong foundation in cloud computing, virtualization, networking and cloud
-concepts. Aspiring IT Support professional with exceptional strong analytical skills and troubleshooting abilities
-and a keen eye for detail, and an addiction to learning new cloud technologies. Plagued with the overwhelming
-urge to tinker, figure things out, and build Azure infrastructures.
+> Test
 
 ## Header 2
 
